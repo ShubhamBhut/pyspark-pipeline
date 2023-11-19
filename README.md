@@ -1,6 +1,4 @@
-# Housing Price Analysis
-
-This project performs analysis on housing price data using PySpark, allowing users to read, process, and analyze housing data from various sources.
+# Housing Price Data pipeline
 
 ## Project Structure
 
