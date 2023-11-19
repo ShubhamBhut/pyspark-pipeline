@@ -34,7 +34,7 @@ housing_analysis/
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/ShubhamBhut/pyspark-pipeline
    cd housing_analysis
    ```
 
